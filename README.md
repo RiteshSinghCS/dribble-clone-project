@@ -57,7 +57,7 @@ Dribbble-Clone/
 
 ## 📸 Screenshots
 ### Desktop View:
-![Desktop View]([assets/images/desktop-screenshot.png](https://i.postimg.cc/L5sp498y/Screenshot-2025-01-16-200156.png)
+![Desktop View]([assets/images/desktop-screenshot.png]([![Screenshot-2025-01-16-200156.png](https://i.postimg.cc/L5sp498y/Screenshot-2025-01-16-200156.png)](https://postimg.cc/cgPjXNYY))
 
 ### Mobile View:
 ![Mobile View](assets/images/mobile-screenshot.png)
