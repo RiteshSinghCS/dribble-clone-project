@@ -60,7 +60,7 @@ Dribbble-Clone/
 ![Desktop View](https://i.postimg.cc/L5sp498y/Screenshot-2025-01-16-200156.png)
 
 ### Mobile View:
-![Mobile View](assets/images/mobile-screenshot.png)
+![Mobile View](https://i.postimg.cc/SsQD2Jbp/Screenshot-20250116-200253.png)
 
 ---
 
