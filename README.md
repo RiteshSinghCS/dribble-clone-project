@@ -34,7 +34,7 @@ Dribbble-Clone/
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/riteshksingh/dribbble-clone.git
+   git clone https://github.com/RiteshSinghCS/dribble-clone-project.git
    ```
 
 2. **Navigate to the Project Folder**:
